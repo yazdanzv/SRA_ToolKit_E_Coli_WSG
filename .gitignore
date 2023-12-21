@@ -18,6 +18,10 @@ lib/
 lib64/
 parts/
 sdist/
+SRA_ToolKit/
+*.fastq
+*.mp4
+.idea/
 var/
 wheels/
 share/python-wheels/
