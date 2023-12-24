@@ -18,6 +18,9 @@ lib/
 lib64/
 parts/
 sdist/
+BIo/
+Try_no1/
+Try_no2/
 SRA_ToolKit/
 *.fastq
 *.mp4
