@@ -21,6 +21,8 @@ sdist/
 BIo/
 Try_no1/
 Try_no2/
+*.zip
+Project1/
 SRA_ToolKit/
 *.fastq
 *.mp4
